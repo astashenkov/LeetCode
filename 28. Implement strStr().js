@@ -10,4 +10,4 @@ var strStr = function(haystack, needle) {
             if (needle === haystack.slice(i, (i + needle.length))) return i;
         }
     } 
-};
+};  
